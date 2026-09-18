@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "updated": "2026-09-19",
+  "widgets": [
+    {
+      "key": "clock",
+      "title": "Analog Clock",
+      "version": "1.0",
+      "author": "marcellyosi75",
+      "description": "Jam analog simple",
+      "url": "https://raw.githubusercontent.com/marcellyosi75-coder/vista-widgets/main/clock.py"
+    }
+  ]
+}
