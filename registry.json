@@ -3,12 +3,20 @@
   "updated": "2026-09-19",
   "widgets": [
     {
-      "key": "clock",
-      "title": "Analog Clock",
+      "key": "weather",
+      "title": "Weather",
       "version": "1.0",
       "author": "marcellyosi75",
-      "description": "Jam analog simple",
-      "url": "https://raw.githubusercontent.com/marcellyosi75-coder/vista-widgets/main/clock.py"
+      "description": "Cuaca realtime Jakarta",
+      "url": "https://raw.githubusercontent.com/marcellyosi75-coder/vista-widgets/main/widgets/weather.py"
+    },
+    {
+      "key": "cpu_temp",
+      "title": "CPU Temperature",
+      "version": "1.0",
+      "author": "marcellyosi75",
+      "description": "Suhu CPU realtime",
+      "url": "https://raw.githubusercontent.com/marcellyosi75-coder/vista-widgets/main/widgets/cpu_temp.py"
     }
   ]
 }
